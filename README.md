@@ -1,4 +1,4 @@
-# World's simplest log-based Bash database
+# World's simplest log-structured database written in Bash
 
 ## How to use
 Getting data:
